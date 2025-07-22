@@ -7,10 +7,13 @@ Analyzed basic structure and created initial folder and file setup
 Replicated basic layout components from CDFII as base structure
 
 🧠 What I Learned
+
 Learned how to reuse and refactor code from previous projects
 
 🧩 Challenges I Faced
+
 Had to maintain different design guidelines from CDFII
 
 🔧 How I Solved / Plan to Solve It
+
 Created separate components for reusable logic and adjusted design accordingly
